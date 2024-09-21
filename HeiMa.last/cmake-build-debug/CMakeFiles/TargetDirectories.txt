@@ -1,0 +1,3 @@
+/Users/fangyang/Desktop/c++.clion/HeiMa.last/cmake-build-debug/CMakeFiles/HeiMa_last.dir
+/Users/fangyang/Desktop/c++.clion/HeiMa.last/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fangyang/Desktop/c++.clion/HeiMa.last/cmake-build-debug/CMakeFiles/rebuild_cache.dir
